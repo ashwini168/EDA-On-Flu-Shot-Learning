@@ -2,6 +2,7 @@
 ![picture](flu-vaccine.jpg)
 
 
+
 <h1>Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines<h1>
 <h2>Overview</h2>
 <p><strong>Can you predict whether people got H1N1 and seasonal flu vaccines using information they shared about their backgrounds, opinions, and health behaviors?</strong></p>
@@ -11,3 +12,8 @@
 <p><strong>This is a practice competition designed to be accessible to participants at all levels. That makes it a great place to dive into the world of data science competitions. Come on in from the waiting room and try your (hopefully steady) hand at predicting vaccinations.</strong></p>
 
 Link : https://www.drivendata.org/competitions/66/flu-shot-learning/
+
+
+Files:
+- EDA_on_flu_shot.ipynb - Exploratory Data Analysis.
+- random_forest_vaccine_modeling.py - First Model Submitted.
