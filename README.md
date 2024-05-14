@@ -1,5 +1,6 @@
 # Exploratory-Data-Analysis-On-Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines
-![picture]("C:\Users\HP\Desktop\EDA\Exploratory-Data-Analysis-On-Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines\Flu_shot_Learning\flu-vaccine.jpg")
+![image](https://github.com/ashwini168/Exploratory-Data-Analysis-On-Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines/assets/105476411/6bb8bc06-b504-4f3a-b69c-55d1f32c3ec6)
+
 
 <h1>Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines<h1>
 <h2>Overview</h2>
