@@ -1,7 +1,5 @@
 # Exploratory-Data-Analysis-On-Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines
-
-
-
+![picture](./flu-vaccine.jpg)
 
 <h1>Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines<h1>
 <h2>Overview</h2>
