@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-On-Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines
-![picture](./flu-vaccine.jpg)
+![picture]("C:\Users\HP\Desktop\EDA\Exploratory-Data-Analysis-On-Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines\Flu_shot_Learning\flu-vaccine.jpg")
 
 <h1>Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines<h1>
 <h2>Overview</h2>
