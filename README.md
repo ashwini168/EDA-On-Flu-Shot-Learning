@@ -14,11 +14,11 @@ Link : https://www.drivendata.org/competitions/66/flu-shot-learning/
 
 
 Files:
-- EDA_on_flu_shot.ipynb - Exploratory Data Analysis.
-- random_forest_vaccine_modeling.py - First model submitted.
-- Model_eda_flu.ipynb - Model_1 Implementation and Performance Analysis.
-- EDA_on_flu_shot.ipynb -Model_2 Implementation and Performance Analysis.
-- random_forest_vaccine_model_2.py -Second model submitted.
-- Score = 0.6072
-- Rank = 1795 
+- EDA_on_flu_shot.ipynb : Exploratory Data Analysis.
+- random_forest_vaccine_modeling.py : First model submitted.
+- Model_eda_flu.ipynb - Model_1 : Implementation and Performance Analysis.
+- EDA_on_flu_shot.ipynb -Model_2 : Implementation and Performance Analysis.
+- random_forest_vaccine_model_2.py : Second model submitted.
+- Score : 0.6072
+- Rank : 1795 
     
