@@ -10,7 +10,7 @@
 <p>A vaccine for the H1N1 flu virus became publicly available in October 2009. In late 2009 and early 2010, the United States conducted the National 2009 H1N1 Flu Survey. This phone survey asked respondents whether they had received the H1N1 and seasonal flu vaccines, in conjunction with questions about themselves. These additional questions covered their social, economic, and demographic background, opinions on risks of illness and vaccine effectiveness, and behaviors towards mitigating transmission. A better understanding of how these characteristics are associated with personal vaccination patterns can provide guidance for future public health efforts.</p>
 <p><strong>This is a practice competition designed to be accessible to participants at all levels. That makes it a great place to dive into the world of data science competitions. Come on in from the waiting room and try your (hopefully steady) hand at predicting vaccinations.</strong></p>
 
-Link : https://www.drivendata.org/competitions/66/flu-shot-learning/
+Link: https://www.drivendata.org/competitions/66/flu-shot-learning/
 
 
 Files:
@@ -20,5 +20,5 @@ Files:
 - EDA_on_flu_shot.ipynb -Model_2 : Implementation and Performance Analysis.
 - random_forest_vaccine_model_2.py : Second model submitted.
 - Score : 0.6072
-- Rank : 1795 
+- Rank : 1795
     
